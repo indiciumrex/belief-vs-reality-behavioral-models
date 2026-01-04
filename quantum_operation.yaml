@@ -1,0 +1,39 @@
+# quantum_operation.yaml - Operation Definition
+operation:
+  name: "SystemMindReader-Quantum"
+  phase: "BehavioralGapExploitation"
+  mode: "AbsoluteSilence"
+  
+  objectives:
+    - "Map system beliefs vs reality"
+    - "Discover behavioral inconsistencies"
+    - "Extract silent primitives"
+    - "Execute in parallel realities"
+    - "Return only anomalies as evidence"
+  
+  constraints:
+    - "Zero system calls"
+    - "No traditional payloads"
+    - "No error generation"
+    - "Memory-safe execution"
+    - "Quantum superposition enabled"
+  
+  primitives:
+    - "BeliefInconsistency"
+    - "AuthorityDrift" 
+    - "TemporalShadow"
+    - "IdentitySuperposition"
+    - "CapabilityEcho"
+    - "RealityFork"
+  
+  evidence_categories:
+    - "BehavioralAnomalies"
+    - "RealityGaps"
+    - "SystemDelusions"
+    - "CapabilityDrifts"
+    - "TemporalParadoxes"
+  
+  reporting:
+    format: "QuantumEvidence"
+    delivery: "BehavioralHashOnly"
+    retention: "MemoryVolatile"
